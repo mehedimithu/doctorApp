@@ -1,0 +1,4 @@
+#Sat Apr 24 01:07:02 BDT 2021
+base.0=/Users/mehedisumi/Expariments/telemedicine-pms-flutter/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

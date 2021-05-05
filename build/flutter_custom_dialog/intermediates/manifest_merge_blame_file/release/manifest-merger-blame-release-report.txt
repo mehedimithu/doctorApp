@@ -1,0 +1,8 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="yy.inc.flutter_custom_dialog" >
+4
+5    <uses-sdk android:minSdkVersion="16" />
+5-->/Users/mehedisumi/Documents/Developer/flutter/.pub-cache/git/flutter-custom-dialog-6169dea586566935024bda2a5956d4157135b43e/android/src/main/AndroidManifest.xml
+6
+7</manifest>

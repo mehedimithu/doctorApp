@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/pms/pms_telemedicine_flutter/BuildConfig.java
+ com.pms.pms_telemedicine_flutter.BuildConfig

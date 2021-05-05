@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.0.0" />
+      <root url="file://$USER_HOME$/Documents/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.1" />
+      <root url="file://$USER_HOME$/Documents/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/package_info-0.4.3+4" />
+      <root url="file://$USER_HOME$/Documents/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.0" />
+      <root url="file://$USER_HOME$/Documents/Developer/flutter/.pub-cache/git/flutter-custom-dialog-6169dea586566935024bda2a5956d4157135b43e" />
+      <root url="file://$USER_HOME$/Documents/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.0.0" />
+      <root url="file://$USER_HOME$/Documents/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1" />
+      <root url="file://$USER_HOME$/Documents/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.0.0" />
+      <root url="file://$USER_HOME$/Documents/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-2.0.0+3" />
+      <root url="file://$USER_HOME$/Documents/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.5" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
