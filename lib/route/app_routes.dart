@@ -4,12 +4,15 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_core/api/api_client.dart';
 import 'package:flutter_core/core/app_provider.dart';
 import 'package:flutter_core/pref/app_pref.dart';
-import 'package:pms_telemedicine_flutter/main/auth/auth_page.dart';
-import 'package:pms_telemedicine_flutter/main/auth/bloc/bloc.dart';
-import 'package:pms_telemedicine_flutter/main/auth/forgetpassword/ui/forget_password_page.dart';
-import 'package:pms_telemedicine_flutter/main/auth/service/auth_service.dart';
-import 'package:pms_telemedicine_flutter/main/auth/signup/signup.dart';
-import 'package:pms_telemedicine_flutter/main/home/ui/home_page.dart';
+
+import '../main/auth/auth_page.dart';
+import '../main/auth/bloc/auth_bloc.dart';
+import '../main/auth/bloc/auth_event.dart';
+import '../main/auth/forgetpassword/ui/forget_password_page.dart';
+import '../main/auth/service/auth_service.dart';
+import '../main/auth/signup/signup.dart';
+import '../main/home/ui/home_page.dart';
+
 
 AppPreference _pref;
 ApiClient _client;

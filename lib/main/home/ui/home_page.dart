@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:pms_telemedicine_flutter/main/doctor/ui/chat_doc.dart';
-import 'package:pms_telemedicine_flutter/main/doctor/ui/doctor_catagory_list.dart';
-import 'package:pms_telemedicine_flutter/main/doctor/ui/doctor_profile.dart';
-import 'package:pms_telemedicine_flutter/main/doctor/ui/doctor_search.dart';
+import '../../doctor/ui/chat_doc.dart';
+import '../../doctor/ui/doctor_catagory_list.dart';
+import '../../doctor/ui/doctor_profile.dart';
+import '../../doctor/ui/doctor_search.dart';
 import 'chat_list.dart';
 
 class HomePage extends StatefulWidget {

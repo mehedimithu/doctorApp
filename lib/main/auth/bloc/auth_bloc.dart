@@ -3,7 +3,7 @@ import 'package:bloc/bloc.dart';
 import 'package:flutter_core/pref/app_pref.dart';
 import 'package:meta/meta.dart';
 import 'package:flutter_core/pref/pref_key.dart';
-import 'package:pms_telemedicine_flutter/common/user/logged_user.dart';
+import '../../../common/user/logged_user.dart';
 import 'bloc.dart';
 
 class AuthenticationBloc

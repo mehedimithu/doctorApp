@@ -1,4 +1,5 @@
-import 'package:pms_telemedicine_flutter/common/user/logged_user.dart';
+
+import '../../../../../common/user/logged_user.dart';
 
 class LoginResponseDto {
   String msg;

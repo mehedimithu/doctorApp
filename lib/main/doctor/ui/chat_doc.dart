@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:pms_telemedicine_flutter/main/doctor/ui/doctor_search.dart';
-import 'package:pms_telemedicine_flutter/main/home/ui/home_page.dart';
+
+import '../../home/ui/home_page.dart';
 
 class DoctorChat extends StatefulWidget {
   @override

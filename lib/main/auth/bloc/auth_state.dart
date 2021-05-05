@@ -1,6 +1,7 @@
 import 'package:equatable/equatable.dart';
 import 'package:meta/meta.dart';
-import 'package:pms_telemedicine_flutter/common/user/logged_user.dart';
+
+import '../../../common/user/logged_user.dart';
 
 @immutable
 abstract class AuthenticationState extends Equatable {

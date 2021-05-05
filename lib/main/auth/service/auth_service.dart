@@ -1,12 +1,11 @@
-
 import 'package:dio/dio.dart';
 import 'package:flutter_core/api/api_client.dart';
 import 'package:flutter_core/pref/app_pref.dart';
 import 'package:flutter_core/pref/pref_key.dart';
-import 'package:pms_telemedicine_flutter/api/all_urls.dart';
-import 'package:pms_telemedicine_flutter/common/service/base_service.dart';
-import 'package:pms_telemedicine_flutter/main/auth/login/model/dto/login_response_dto.dart';
-import 'package:pms_telemedicine_flutter/pref/app_pref_key.dart';
+import '../../../api/all_urls.dart';
+import '../../../common/service/base_service.dart';
+import '../../../pref/app_pref_key.dart';
+import '../login/model/dto/login_response_dto.dart';
 
 class AuthService extends BaseService {
   AuthService({ApiClient apiClient, AppPreference appPreference})

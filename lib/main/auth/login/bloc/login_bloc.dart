@@ -3,9 +3,9 @@ import 'dart:async';
 import 'package:bloc/bloc.dart';
 import 'package:flutter_core/logger/Log.dart';
 import 'package:flutter_core/utils/validation.dart';
-import 'package:pms_telemedicine_flutter/main/auth/login/model/dto/login_response_dto.dart';
-import 'package:pms_telemedicine_flutter/main/auth/service/auth_service.dart';
 import 'package:rxdart/rxdart.dart';
+import '../../service/auth_service.dart';
+import '../model/dto/login_response_dto.dart';
 import 'bloc.dart';
 import 'package:meta/meta.dart';
 

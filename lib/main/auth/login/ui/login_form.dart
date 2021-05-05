@@ -1,13 +1,15 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_core/utils/dialog_util.dart';
-import 'package:pms_telemedicine_flutter/main/auth/bloc/auth_bloc.dart';
-import 'package:pms_telemedicine_flutter/main/auth/bloc/auth_event.dart';
-import 'package:pms_telemedicine_flutter/main/auth/forgetpassword/ui/forget_password_page.dart';
-import 'package:pms_telemedicine_flutter/main/auth/login/bloc/bloc.dart';
-import 'package:pms_telemedicine_flutter/main/auth/signup/signup.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:pms_telemedicine_flutter/main/home/ui/home_page.dart';
+import '../../../home/ui/home_page.dart';
+import '../../bloc/auth_bloc.dart';
+import '../../bloc/auth_event.dart';
+import '../../forgetpassword/ui/forget_password_page.dart';
+import '../../signup/signup.dart';
+import '../bloc/login_bloc.dart';
+import '../bloc/login_event.dart';
+import '../bloc/login_state.dart';
 
 class LoginForm extends StatefulWidget {
   State<LoginForm> createState() => _LoginFormState();

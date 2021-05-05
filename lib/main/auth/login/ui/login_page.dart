@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:pms_telemedicine_flutter/main/auth/login/bloc/login_bloc.dart';
-import 'package:pms_telemedicine_flutter/main/auth/service/auth_service.dart';
 
+import '../../service/auth_service.dart';
+import '../bloc/login_bloc.dart';
 import 'login_form.dart';
 
 class LoginPage extends StatelessWidget {

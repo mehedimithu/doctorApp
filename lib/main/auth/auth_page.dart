@@ -2,12 +2,12 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_core/widget/loading_indicator.dart';
-import 'package:pms_telemedicine_flutter/main/auth/service/auth_service.dart';
-import 'package:pms_telemedicine_flutter/main/auth/signup/signup.dart';
-import 'package:pms_telemedicine_flutter/main/home/ui/home_page.dart';
+import '../home/ui/home_page.dart';
 import 'bloc/auth_bloc.dart';
 import 'bloc/bloc.dart';
 import 'login/ui/login_page.dart';
+import 'service/auth_service.dart';
+import 'signup/signup.dart';
 
 
 class AuthPage extends StatelessWidget {
